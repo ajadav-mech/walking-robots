@@ -4,17 +4,15 @@
 
 [English](#english) · [Deutsch](#deutsch)
 
-![Hero GIF of a robot walking](media/hero.gif)
-
 ---
 
 ## English
 
-| Robot | What it is | Media |
-|---|---|---|
-| **Bipedal walking robot** | Two-legged walking robot <!-- TODO: servos, controller, gait --> | ![](media/biped.jpg) |
-| **Quadruped robot** | Four-legged robot <!-- TODO --> | ![](media/quadruped.jpg) |
-| **Hexapod (spider) robot** | Six-legged walking robot <!-- TODO --> | ![](media/hexapod.jpg) |
+| Robot | What it is |
+|---|---|
+| **Bipedal walking robot** | Two-legged walking robot <!-- TODO: servos, controller, gait --> |
+| **Quadruped robot** | Four-legged robot <!-- TODO --> |
+| **Hexapod (spider) robot** | Six-legged walking robot <!-- TODO --> |
 
 ### What I did
 - Designed frames and legs in CAD and 3D-printed them
